@@ -25,7 +25,7 @@ NUMERIC(10,2)
 FLOAT
 REAL
 
-Тесктовый
+Текстовый
 VARCHAR(255)
 TEXT
 CHAR(10)
